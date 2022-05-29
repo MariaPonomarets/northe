@@ -31,3 +31,7 @@ Now you can setup and run the project by running:
     - `/theme` - theme definition: colors, spacing, typography
     - `/utils` - helpers
 - `/App.tsx` - Base component
+
+
+https://user-images.githubusercontent.com/16758005/170883186-4a27d18b-69a6-4c81-823c-fff9ae632eb5.mov
+
